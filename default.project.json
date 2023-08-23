@@ -1,5 +1,5 @@
 {
-  "name": "Roblox_DataStoreWrapper",
+  "name": "datastore-wrapper",
   "tree": {
     "$className": "DataModel",
     "ServerScriptService": {
