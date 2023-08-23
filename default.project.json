@@ -1,0 +1,11 @@
+{
+  "name": "Roblox_DataStoreWrapper",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "DSWrapper": {
+        "$path": "src/DSWrapper"
+      }
+    }
+  }
+}
