@@ -1,6 +1,6 @@
 {
   "name": "datastore-wrapper",
   "tree": {
-    "$path": "src/DSWrapper"
+    "$path": "src"
   }
 }
