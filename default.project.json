@@ -1,11 +1,6 @@
 {
   "name": "datastore-wrapper",
   "tree": {
-    "$className": "DataModel",
-    "ServerScriptService": {
-      "DSWrapper": {
-        "$path": "src/DSWrapper"
-      }
-    }
+    "$path": "src/DSWrapper"
   }
 }
